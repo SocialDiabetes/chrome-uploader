@@ -1,7 +1,7 @@
 {
-  "name": "tidepool-uploader",
+  "name": "socialdiabetes-uploader",
   "version": "2.19.0",
-  "description": "Tidepool Project Universal Uploader",
+  "description": "SocialDiabetes Project Universal Uploader",
   "private": true,
   "main": "main.js",
   "author": "Kent Quirk",
@@ -142,7 +142,9 @@
           ]
         }
       ],
-      "publisherName": ["Tidepool Project"],
+      "publisherName": [
+        "Tidepool Project"
+      ],
       "rfc3161TimeStampServer": "http://sha256timestamp.ws.symantec.com/sha256/timestamp",
       "timeStampServer": "http://timestamp.digicert.com"
     },
