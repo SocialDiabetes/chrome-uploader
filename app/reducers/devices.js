@@ -140,6 +140,13 @@ const devices = {
     key: 'truemetrix',
     source: {type: 'device', driverId: 'TrueMetrix'},
     enabled: {mac: true, win: true, linux: true}
+  },
+  areo2k: {
+    instructions: 'Plug in meter with mini-USB',
+    name: 'GlucoMen Areo2k',
+    key: 'glucomenareo',
+    source: {type: 'device', driverId: 'glucomenareo'},
+    enabled: {mac: true, win: true, linux: true}
   }
 };
 
